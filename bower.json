@@ -1,0 +1,27 @@
+{
+  "name": "ng-scopeout",
+  "homepage": "https://github.com/jetbalagtas",
+  "authors": [
+    "Jet Balagtas <jetbalagtas@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~0.14.3",
+    "bootstrap": "~3.3.5"
+  },
+  "keywords": [
+    "angular",
+    "bootstrap"
+  ],
+  "private": true
+}

@@ -1,0 +1,9 @@
+<h1>list page</h1>
+
+<div ng-repeat="placesList in greatPlaces">
+  <h3>{{placesList.title}}</h3>
+  <img ng-src="{{placesList.cover}}" alt="" />
+  <p>
+    {{placesList.description}}
+  </p>
+</div>
